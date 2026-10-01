@@ -11,6 +11,10 @@ nav {
     background-color: #333333;
 }
 
+nav a {
+    color: #ffffff;
+}
+
 main {
     background-color: #f2f2f2;
     font-size: 18px;
@@ -18,6 +22,7 @@ main {
 
 footer {
     background-color: #1f4e79;
+    color: #ffffff;
 }
 
 li {
